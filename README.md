@@ -1,7 +1,3 @@
-# ARKA Veterinary Clinit Landing Page with Appointment Booking and Management System
-
-<!-- #### See the live demo [here](https://saasyland.com) -->
-
 ## Description
 
 > **Warning**
